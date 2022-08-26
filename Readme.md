@@ -1,6 +1,6 @@
 ![image](https://img.shields.io/badge/project-14-red)
 
-## Project-14  [live Link](https://project-14dance-page.netlify.app/)
+## Project-14  [live Link](https://html-project-14.netlify.app/)
 
 **Name:** Rajit kumar
 
@@ -16,4 +16,4 @@
 
 ![image](https://img.shields.io/badge/Full%20stack%20JS%20bootcamp-Hitesh%20Chaudhary-lightgrey)
 
-![image](https://github.com/Rajit909/Html-project-14/14.png)
+![image](https://github.com/Rajit909/Html-project-14/blob/main/14.png)
